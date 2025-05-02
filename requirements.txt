@@ -1,0 +1,20 @@
+# LangChain actualizado
+langchain>=0.2.0
+langchain-community
+langchain-huggingface
+
+# Embeddings y vector store
+sentence-transformers
+faiss-cpu
+
+# Hugging Face y modelo LLM
+transformers
+accelerate
+torch
+
+# Interfaz (si estás usando Gradio)
+gradio
+
+# Carga de documentos
+unstructured
+pdfplumber  # opcional si usas PDFs
