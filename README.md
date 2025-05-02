@@ -11,8 +11,3 @@ Este proyecto tiene como objetivo proporcionar un sistema de **Pregunta-Respuest
 
 ## 📂 **Estructura del Proyecto**
 
-proyecto_transito/ │ ├── app.py # Script principal con la lógica de Pregunta-Respuesta ├── codigo_transito.txt # Texto extraído del PDF con el Código Nacional de Tránsito ├── requirements.txt # Dependencias necesarias para ejecutar el proyecto
-
-bash
-Copiar
-Editar
